@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Samples",
+    "\\Samples\\iOS-ObjectiveC",
+    "\\Samples\\iOS-ObjectiveC\\iOS-ObjectiveC",
+    "\\Samples\\iOS-ObjectiveC\\iOS-ObjectiveC\\Base.lproj",
+    "\\Samples\\iOS-Swift",
+    "\\Samples\\iOS-SwiftUI",
+    "\\Samples\\iOS-SwiftUI\\iOS-SwiftUI",
+    "\\Samples\\iOS-SwiftUI\\iOS-SwiftUI-UITests",
+    "\\Samples\\iOS15-SwiftUI",
+    "\\Samples\\iOS15-SwiftUI\\iOS15-SwiftUI.xcodeproj"
+  ],
+  "SelectedNode": "\\Samples\\iOS-SwiftUI\\iOS-SwiftUI\\Info.plist",
+  "PreviewInSolutionExplorer": false
+}
